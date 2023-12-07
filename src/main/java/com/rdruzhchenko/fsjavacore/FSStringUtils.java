@@ -76,7 +76,7 @@ public class FSStringUtils {
             throw new RuntimeException("passed string is `null`");
         }
 
-        var lastString = getLast(s);
+        String lastString = getLast(s);
         return lastString.charAt(0);
     }
 
