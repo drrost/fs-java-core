@@ -1,4 +1,4 @@
-package com.rdruzhchenko.language.utils.tomove;
+package com.rdruzhchenko.fsjavacore;
 
 public class FSStringUtils {
     public static String trimAll(String s) {

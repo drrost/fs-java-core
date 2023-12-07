@@ -1,4 +1,4 @@
-package com.rdruzhchenko.language.utils.tomove;
+package com.rdruzhchenko.fsjavacore;
 
 public class FSNameUtils {
 
