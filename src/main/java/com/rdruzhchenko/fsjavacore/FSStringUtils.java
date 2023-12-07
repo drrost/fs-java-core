@@ -85,7 +85,7 @@ public class FSStringUtils {
             return true;
         }
 
-        return s.trim().equals("");
+        return s.trim().isEmpty();
     }
 
     public static String dropFirstWord(String s) {
